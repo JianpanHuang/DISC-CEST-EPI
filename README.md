@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7465a616-1a7f-4a10-ba9b-a41048c9bb90)# DISC-CEST-EPI
 This repository contains the code and demo data of the distortion self-correction (DISC) for CEST EPI.
 
 This code demonstrates the DISC part of the flowchart shown below:
