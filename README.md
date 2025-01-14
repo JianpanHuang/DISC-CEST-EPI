@@ -5,7 +5,7 @@ This code demonstrates the DISC part of the flowchart shown below:
 
 To run the code:
 1. Download the whole code folder, including 'Toolbox' and 'Data'.
-2. Change the MATLAB pathway to current pathway.
+2. Change the MATLAB pathway to code folder pathway.
 3. Run ‘DISC_CESTEPI_Phantom.m’ to get phantom results or ‘DISC_CESTEPI_Mouse.m’ to get mouse results.
 
 After runing 'DISC_CESTEPI_Phantom.m', you will get: 
