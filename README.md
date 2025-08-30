@@ -1,4 +1,8 @@
-This repository contains the code and demo data for distortion self-correction (DISC) for CEST EPI.
+This repository contains the code and demo data for distortion self-correction (DISC) for CEST EPI proposed in the following paper:
+
+Liu Y, Park SW, Law LH, Wang K, Ju L, Xu J, Chan KWY, Huang J*. [Evaluating the effectiveness of distortion self-correction for CEST-EPI](https://doi.org/10.1002/mrm.70048). Magnetic Resonance in Medicine 2025.
+
+If you use the code, please consider citing our paper above.
 
 This code demonstrates the DISC part of the flowchart shown below:
 <img width="1176" alt="ismrm24_fig1" src="https://github.com/user-attachments/assets/0c4c2f91-8028-459e-a6aa-1fba035265f7" />
