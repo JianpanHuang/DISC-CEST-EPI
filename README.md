@@ -5,7 +5,7 @@ Liu Y, Park SW, Law LH, Wang K, Ju L, Xu J, Chan KWY, Huang J*. [Evaluating the 
 If you use the code, please consider citing our paper above.
 
 
-This code demonstrates the DISC part of the flowchart shown below:
+Below demonstrates the DISC part of the flowchart:
 <img width="1176" alt="ismrm24_fig1" src="https://github.com/user-attachments/assets/0c4c2f91-8028-459e-a6aa-1fba035265f7" />
 
 To run the code:
